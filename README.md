@@ -1,6 +1,6 @@
 # Mobile-Price-Classification
 
-### This repository contains a project for classifying mobile phone prices based on various features using machine learning techniques. The dataset includes attributes such as battery life, camera quality, RAM, processor speed, and other mobile specifications to predict the price range of the mobile phones.
+### This repository contains a machine learning model to classify mobile phones into different price categories based on their features. The dataset used for this project is the [Mobile Price Classification Dataset](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification) from kaggle, which includes various attributes of mobile phones such as battery power, RAM, camera specs, and more, along with the corresponding price range.
 
 ## Features:
 ### Data Preprocessing: Cleaning and preparing the dataset for model training.
